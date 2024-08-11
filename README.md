@@ -18,10 +18,10 @@ Welcome to the **Custom QR Code Generator**! This application allows you to gene
 
 Here are some examples of what you can achieve with the Custom QR Code Generator:
 
-![Example QR Code 1](assets/custom_qr_code (1).png)
+ <img src="assets/custom_qr_code (1).png" alt="GUI Screenshot 6" width="400" />
 *Example QR Code with a custom color scheme.*
 
-![Example QR Code 2](assets/custom_qr_code (2).png)
+<img src="assets/custom_qr_code (1).png" alt="GUI Screenshot 6" width="400" />
 *Another example showcasing different color combinations.*
 
 ## Installation
