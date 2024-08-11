@@ -20,10 +20,12 @@ Here are some examples of what you can achieve with the Custom QR Code Generator
 
 <div style="display: flex; gap: 10px; justify-content: center;">
  
-<img src="assets/custom_qr_code (1).png" alt="GUI Screenshot 6" width="400" />
-<img src="assets/custom_qr_code (2).png" alt="GUI Screenshot 6" width="400" />
+<img src="assets/custom_qr_code (1).png" alt="GUI Screenshot 6" width="200" />
+<img src="assets/custom_qr_code (2).png" alt="GUI Screenshot 6" width="200" />
  
 </div>
+
+<img src="assets/Screenshot_1.png" alt="GUI Screenshot 6" width="300" />
 
 ## Installation
 
