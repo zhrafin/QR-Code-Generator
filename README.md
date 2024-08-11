@@ -25,7 +25,7 @@ Here are some examples of what you can achieve with the Custom QR Code Generator
  
 </div>
 
-<img src="assets/Screenshot_1.png" alt="GUI Screenshot 6" width="500" />
+<img src="assets/Screenshot_1.png" alt="GUI Screenshot 6" width="700" />
 
 ## Installation
 
